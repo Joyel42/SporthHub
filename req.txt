@@ -2,7 +2,7 @@ Django
 django-cors-headers
 djangorestframework
 jwt
-psycopg2
+psycopg2-binary==*
 pycparser
 sqlparse
 typing_extensions
