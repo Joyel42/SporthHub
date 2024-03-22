@@ -1,6 +1,3 @@
-asgiref
-cffi
-cryptography
 Django
 django-cors-headers
 djangorestframework
